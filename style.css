@@ -1,0 +1,30 @@
+html{
+  background-color: rgb(255,192,80);
+  display: block;
+  position: relative;
+  left: 10px;
+  width: 320px;
+  height: 400px;    
+}
+body img{
+  width: 68px;
+  height: 68px;        
+}
+#hin{
+  margin-top: 10px;
+  border: 2px solid black;
+  width: 280px;       
+}
+#hrac1{
+  width: 10px;      
+}
+#hrac2{
+  width: 10px;      
+}
+#hraje{
+  width: 70px;
+  margin-right: 35px;      
+}
+#karticky{
+  margin-top: 20px;         
+} 
